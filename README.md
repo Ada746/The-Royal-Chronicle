@@ -1,7 +1,7 @@
-# ⚔️ The Royal Chronicle of POLITEHNICA
+# ⚔️ The Royal Chronicle
 
-> **Data Structures & Algorithms — Grand Devoir 2 | Exercise 2**  
-> Binary Search Tree | Politehnica University of Bucharest
+> **Data Structures & Algorithms **  
+> Binary Search Tree
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## Overview
 
-The Kingdom of POLITEHNICA has waged a century of wars, and the Royal Archives overflow with unsorted scrolls. The Royal Scribe is ordered to organize the **Knight Registry** — a record of all knights who have sworn allegiance to the crown — using a **Binary Search Tree (BST)** ordered by each knight's **Bravery Score**: a unique integer awarded by the King for acts in combat.
+The Kingdom has waged a century of wars, and the Royal Archives overflow with unsorted scrolls. The Royal Scribe is ordered to organize the **Knight Registry** — a record of all knights who have sworn allegiance to the crown — using a **Binary Search Tree (BST)** ordered by each knight's **Bravery Score**: a unique integer awarded by the King for acts in combat.
 
 ---
 
